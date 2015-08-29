@@ -1,0 +1,12 @@
+#app: /Users/example/Library/Developer/Xcode/DerivedData/CoreDataBooks-ebscrjfhxtkvdfcmtuwluoitjjwo/Build/Products/Debug-iphonesimulator/CoreDataBooks.app
+app: /Users/warrenbain/Library/Developer/Xcode/DerivedData/CoreDataBooks-dqpkdhddorldfsgyutizeamyiejm/Build/Products/Debug-iphonesimulator/CoreDataBooks.app
+
+devices:
+  Simulator:
+    screen: retina_ios6
+    default: true
+    simulator: iPhone 6 Plus
+
+  Wazza's iPad:
+    UDID: 0fecbbe732971bd957e8bdd4ae17c769ec893779
+    screen: ipad_ios8
