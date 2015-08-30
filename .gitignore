@@ -43,3 +43,10 @@ Pods/
 # Carthage/Checkouts
 
 Carthage/Build
+
+# Zucchini
+#
+# No need to retain the run data or report files
+zucchini/zucchini_report_files/
+zucchini/zucchini_report.html
+zucchini/zucchini.t
