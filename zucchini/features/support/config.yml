@@ -1,5 +1,4 @@
-#app: /Users/example/Library/Developer/Xcode/DerivedData/CoreDataBooks-ebscrjfhxtkvdfcmtuwluoitjjwo/Build/Products/Debug-iphonesimulator/CoreDataBooks.app
-app: /Users/warrenbain/Library/Developer/Xcode/DerivedData/CoreDataBooks-dqpkdhddorldfsgyutizeamyiejm/Build/Products/Debug-iphonesimulator/CoreDataBooks.app
+app: /Users/warrenbain/Library/Developer/Xcode/DerivedData/CoreDataBooks-bkhaodnqyopcihfmcvqrnncsmhko/Build/Products/Debug-iphonesimulator/CoreDataBooks.app
 
 devices:
   Simulator:
